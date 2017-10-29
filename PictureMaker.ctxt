@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PictureMaker()
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=void\ erase()
+comment3.params=
+comment3.target=void\ drawInitials()
+comment4.params=
+comment4.target=void\ drawFlower()
+comment5.params=
+comment5.target=void\ drawNest()
+comment6.params=
+comment6.target=void\ drawPentagon()
+comment7.params=
+comment7.target=void\ drawHexagon()
+comment8.params=c
+comment8.target=void\ changeColor(java.awt.Color)
+numComments=9
